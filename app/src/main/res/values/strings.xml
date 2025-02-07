@@ -16,4 +16,17 @@
     <string name="photography">Photography</string>
     <string name="tech">Tech</string>
 
+    <!-- NUEVOS TEMAS -->
+    <string name="history">History</string>
+    <string name="journalism">Journalism</string>
+    <string name="automotive">Automotive</string>
+    <string name="ecology">Ecology</string>
+    <string name="finance">Finance</string>
+    <string name="geology">Geology</string>
+    <string name="law">Law</string>
+    <string name="biology">Biology</string>
+    <string name="engineering">Engineering</string>
+    <string name="physics">Physics</string>
+
+
 </resources>
